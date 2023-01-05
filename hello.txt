@@ -1,0 +1,4 @@
+hello sea
+hello git
+:wq
+
